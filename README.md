@@ -1,4 +1,4 @@
-# The Museum of Candy Project
+# The Museum of Candy Project (Revised)
 
 Revised Dark Theme Web Development Bootcamp Project (Colt Steele)
 
